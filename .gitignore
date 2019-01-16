@@ -7,3 +7,6 @@ external
 /mkl-dnn/My Advisor Results - mkl-dnn
 /mkl-dnn
 /doc/design
+/lib/debug_msvc141
+/lib/release_msvc141
+/lib/debug_intel190
