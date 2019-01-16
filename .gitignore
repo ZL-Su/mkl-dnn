@@ -1,0 +1,9 @@
+build
+external
+.*.sw?
+/.vs/mkl-dnn/v15/Browse.VC.opendb
+/.vs
+/examples
+/mkl-dnn/My Advisor Results - mkl-dnn
+/mkl-dnn
+/doc/design
